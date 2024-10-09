@@ -1,0 +1,26 @@
+Graphical User Interface (GUI)
+Command Line Interface (CLI)
+
+- Make Directory
+mkdir [directory name]
+
+- Delete Directory
+rmdir [directory name]
+
+- Print/Present Working directory
+pwd
+
+-  List all files and folder
+ls
+
+- Change Directory
+cd [directory name]
+
+- Go back to the parent directory
+cd ..
+
+- Create a file
+touch [file_name.extension]
+
+- Delete a file
+rm [file_name.extension]
